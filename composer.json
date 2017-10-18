@@ -1,0 +1,16 @@
+{
+    "name": "fsm/sf-facebook-connect-plugin",
+    "description": "sfFacebookConnectPlugin",
+    "type": "symfony1-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabrice Bernhard",
+            "email": "fabriceb@theodo.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
